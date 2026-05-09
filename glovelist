@@ -148,3 +148,5 @@ local glovelist = {
     {"a", "GeneralHit"},
     {"a", "GeneralHit"},
 }
+
+return glovelist
